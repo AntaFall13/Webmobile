@@ -1,0 +1,17 @@
+label{
+    text-align: center;
+}
+.ui-content div[data-role=header]
+{
+border-radius: 40px;
+
+}
+.content div[data-role=header]
+{
+border-radius: 40px;
+
+}
+body {
+    background-color: black; /* Le fond de la page sera noir */
+    color: white; /* Le texte de la page sera blanc */
+}
